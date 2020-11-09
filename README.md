@@ -2,43 +2,25 @@
 
 ### 8-Bit Portfolio
 
-- Describe very briefly but clearly what the project does.
-- State if it is out-of-the-box user-friendly, so it’s clear to the user.
-- List its most useful/innovative/noteworthy features.
-- State its goals/what problem(s) it solves.
-- Note and briefly describe any key concepts (technical, philosophical, or both) important to the user’s understanding.
-- Link to any supplementary blog posts or project main pages.
-- Note its development status.
-- Include badges.
+- This is a fun portfolio that is designed in an 8-Bit style. I liked the look of it and thought it would stand out from most portfolio pages. That's the point right?
+- You can find it at www.taylordorsett.com/portfolio
+- It is built mostly in HTML using CSS and Bootstrap.
 - If possible, include screenshots and demo videos.
 
 ### Technology stack: 
-- Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
+- Built using JavaScript, HTML, Bootstrap, and CSS
   
 ### Status:  
-- Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-
-### Getting Started/Requirements/Prerequisites/Dependencies
-Include any essential instructions for:
-- Getting it
-- Installing It
-- Configuring It
-- Running it
-
-### Contributing
-- Contributor Guidelines
-- Code Style/Requirements
-- Format for commit messages
-- Thank you (name contributors)
+- Beta
 
 ### Known issues
-- Document any known significant shortcomings with the software.
-- Known bugs (shortlist)
+- None
 
 ### TODO
-- Next steps
-- Features planned
-- Known bugs (shortlist)
+- Finish website
+- Link to my website at /portfolio
+- Include screen shots
+- Link to my projects on website
 
 ### Contact
 - taylorsunwantedemails@gmail.com
@@ -54,6 +36,4 @@ Include any essential instructions for:
 
 ## Credits and references
 
-1. Projects that inspired me
-2. Related projects
-3. Books, papers, talks, or other sources that have meaningful impact or influence on this project
+1. I was inspired to build this portfolio after seeing this course on Udemy: https://www.udemy.com/course/build-an-8-bit-website-using-bootstrap-and-javascript/
