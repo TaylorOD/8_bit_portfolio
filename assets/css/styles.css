@@ -47,3 +47,8 @@ body {
 .nav-spacer {
   margin-bottom: 4rem;
 }
+
+.is-dark li {
+  color: white;
+  list-style-type: circle;
+}
