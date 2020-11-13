@@ -5,7 +5,8 @@
 - This is a fun portfolio that is designed in an 8-Bit style. I liked the look of it and thought it would stand out from most portfolio pages. That's the point right?
 - You can find it at www.taylordorsett.com/portfolio
 - It is built mostly in HTML using CSS and Bootstrap.
-- If possible, include screenshots and demo videos.
+
+- If possible, include screenshots and demo videos. (Coming Soon)
 
 ### Technology stack: 
 - Built using JavaScript, HTML, Bootstrap, and CSS
