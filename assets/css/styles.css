@@ -38,3 +38,17 @@ body {
     float: left;
   }
 }
+
+.img-responsive {
+  height: 100%;
+  width: 100%;
+}
+
+.nav-spacer {
+  margin-bottom: 4rem;
+}
+
+.is-dark li {
+  color: white;
+  list-style-type: circle;
+}
