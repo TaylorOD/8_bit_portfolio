@@ -22,9 +22,10 @@
 - Link to my website at /portfolio
 - Include screen shots
 - Link to my projects on website
+  - sort projects by tech stack
 
 ### Contact
-- taylorsunwantedemails@gmail.com
+- dorsetttaylordev@gmail.com
 
 ---
 
