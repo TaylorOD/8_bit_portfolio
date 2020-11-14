@@ -15,14 +15,15 @@
 - Beta
 
 ### Known issues
-- None
+- Preload video is too slow for many slow internet connections
 
 ### TODO
-- Finish website
+
 - Link to my website at /portfolio
 - Include screen shots
 - Link to my projects on website
   - sort projects by tech stack
+- Update copy on the pages
 
 ### Contact
 - dorsetttaylordev@gmail.com
